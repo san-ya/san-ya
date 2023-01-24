@@ -5,9 +5,7 @@
 
 - 👩 Pronouns: She/Her
 
-- 🔭 I’m currently working on **an NLP research project**
-
-- 🌱 I’m currently learning **Data Structures & Algorithms, Web Development**
+- 🌱 I’m currently learning **Data Structures & Algorithms** and **Web Development**
 
 - 📫 How to reach me **https://www.linkedin.com/in/bansal-sanya**
 
