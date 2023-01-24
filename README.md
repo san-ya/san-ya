@@ -1,7 +1,7 @@
 ![MasterHead](https://64.media.tumblr.com/fa70eae41f96f4a669b7f7bad1170802/tumblr_inline_oz165q7woD1schx9a_1280.png)
 <h1 align="center">Hi 👋, I'm Sanya Bansal</h1>
 <h3 align="center">A Coding Enthusiast</h3>
-<!-- <img align="right" alt="Coding" width="200" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"> -->
+<img align="right" alt="Coding" width="200" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 
 - 👩 Pronouns: She/Her
 
@@ -16,4 +16,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=san-ya&show_icons=true&locale=en&theme=dark" alt="san-ya" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=san-ya&&theme=dark" alt="san-ya"/>
 </div>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=san-ya&show_icons=true&locale=en&layout=compact&theme=dark" alt="san-ya"/> </p>
+<div align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=san-ya&show_icons=true&locale=en&layout=compact&theme=dark" alt="san-ya"/> </div>
