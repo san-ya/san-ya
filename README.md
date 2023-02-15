@@ -6,7 +6,7 @@
 - 👩 Pronouns: She/Her
 
 - 🌱 I’m currently learning **Data Structures & Algorithms** and **Web Development**
-
+<br><br>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
