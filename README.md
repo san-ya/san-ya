@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms** and **Web Development**
 
-- 📫 How to reach me **https://www.linkedin.com/in/bansal-sanya**
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
