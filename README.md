@@ -1,6 +1,9 @@
 ![MasterHead](https://64.media.tumblr.com/fa70eae41f96f4a669b7f7bad1170802/tumblr_inline_oz165q7woD1schx9a_1280.png)
-<h1 align="center">Hi 👋, I'm Sanya </h1>
-<h3 align="center">A Coding Enthusiast</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&size=34&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=Hello!+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</div>
+<h3 align="center">I'm Sanya, a coding enthusiast</h3>
+
 
 - 👩 Pronouns: She/Her
 - 🌱 I’m currently learning **Data Structures & Algorithms** and **Web Development**
