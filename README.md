@@ -1,13 +1,11 @@
 ![MasterHead](https://64.media.tumblr.com/fa70eae41f96f4a669b7f7bad1170802/tumblr_inline_oz165q7woD1schx9a_1280.png)
-<h1 align="center">Hi 👋, I'm Sanya Bansal</h1>
+<h1 align="center">Hi 👋, I'm Sanya </h1>
 <h3 align="center">A Coding Enthusiast</h3>
 
 - 👩 Pronouns: She/Her
-
 - 🌱 I’m currently learning **Data Structures & Algorithms** and **Web Development**
-<br><br><br><br>
-<h3 align="left">Languages and Tools:</h3>
 
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -52,7 +50,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
 </p>
-
+<br>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=san-ya&show_icons=true&locale=en&theme=dark" alt="san-ya" />
 </div>
