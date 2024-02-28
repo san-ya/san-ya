@@ -1,7 +1,6 @@
 ![MasterHead](https://64.media.tumblr.com/fa70eae41f96f4a669b7f7bad1170802/tumblr_inline_oz165q7woD1schx9a_1280.png)
 <h1 align="center">Hi 👋, I'm Sanya Bansal</h1>
 <h3 align="center">A Coding Enthusiast</h3>
-<img align="right" alt="Coding" width="200" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 
 - 👩 Pronouns: She/Her
 
