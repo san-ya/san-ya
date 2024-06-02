@@ -6,7 +6,7 @@
 
 
 - 👩 Pronouns: She/Her
-- 🌱 I’m currently learning **Data Structures & Algorithms** and **Web Development**
+- Currently implementing **Object-Oriented Design** to transalte real-life problems into extensible and modular code.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
