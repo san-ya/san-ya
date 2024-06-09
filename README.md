@@ -9,6 +9,11 @@
 - Currently implementing **Object-Oriented Design** to translate real-life problems into extensible and modular code.
 
 <br>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=san-ya&show_icons=true&locale=en&theme=dark" alt="san-ya" />
+</div>
+
+<br>
 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=san-ya&&theme=dark" alt="san-ya"/>
